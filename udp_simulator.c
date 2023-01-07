@@ -1,3 +1,5 @@
+/* Copyright Mike Katchabaw. */
+
 #define _REENTRANT
 #include <pthread.h>
 #include <stdio.h>
